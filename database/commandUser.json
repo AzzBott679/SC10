@@ -1,0 +1,28 @@
+[
+  {
+    "jid": "6281511480762@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#enu",
+        "count": 2
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287898635798@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#enu",
+        "count": 2
+      }
+    ]
+  }
+]
